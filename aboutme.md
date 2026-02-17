@@ -1,16 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: luddite making a webbsite
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Sabrina's my name, and computers aren't my game! Yet, now you're caught in my web-site. I love anything meta (metafiction, metaphor, metalinguistics),  which is Greek for 'beyond,' and this is my crack at making an online metasabrina. Even more, I'm in a class where we combine electronics and textiles to expand the possibilities in those directions!
