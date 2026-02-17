@@ -1,7 +1,7 @@
 ---
 layout: page
 title: who, me?
-subtitle: luddite making a webbsite
+subtitle: webbsite by a luddite
 ---
 
 Sabrina's my name, and computers aren't my game! 
