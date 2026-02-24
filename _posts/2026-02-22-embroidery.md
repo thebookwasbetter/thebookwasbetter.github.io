@@ -8,7 +8,7 @@ comments: true
 
 "https://assets/img/IMG_2578.png"
 
-assets/img/IMG_2579.jpg
+https://thebookwasbetter.github.io/assets/img/IMG_2579.jpg
 
 "https://assets/img/IMG_2580.png"
 
