@@ -6,7 +6,7 @@ tags: [blog post]
 comments: true
 ---
 
-![Front Side](https://thebookwasbetter.github.io/assets/img/IMG_2578.png)
+![Front Side](https://thebookwasbetter.github.io/assets/img/IMG_2581.HEIC)
 
 ![Front Side](https://thebookwasbetter.github.io/assets/img/IMG_2579.jpg)
 
