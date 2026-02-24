@@ -6,8 +6,8 @@ tags: [blog post]
 comments: true
 ---
 
-! [front of sampler] https://thebookwasbetter.github.io/assets/img/IMG_2578.png
+![front of sampler] (https://thebookwasbetter.github.io/assets/img/IMG_2578.png)
 
-! [back of sampler] https://thebookwasbetter.github.io/assets/img/IMG_2580.png
+![back of sampler] (https://thebookwasbetter.github.io/assets/img/IMG_2580.png)
 
 My advice to my past self would be: when you trace the pattern on the wrong side, remember that the front side's words need to go left to right!
