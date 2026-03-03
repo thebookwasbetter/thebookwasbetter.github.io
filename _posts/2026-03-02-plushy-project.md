@@ -20,6 +20,8 @@ This plushy is an example of circuitry using conductive thread on a felt fabric.
 
 ![back](https://thebookwasbetter.github.io/assets/img/back.png)
 
+![sweater weather](https://thebookwasbetter.github.io/assets/img/sweaterweather.png)
+
 ### Tip for Pastbrina
 
 Start with a wider breadth between cross stitches. Also, be mindful of what parts have +/- charges!
