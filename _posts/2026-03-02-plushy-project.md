@@ -14,9 +14,15 @@ This plushy is an example of circuitry using conductive thread on a felt fabric.
 
 ![paperproto](https://thebookwasbetter.github.io/assets/img/paperproto.png)
 
+### Alligator Land
+
 ![alligator](https://thebookwasbetter.github.io/assets/img/alligator.png)
 
+### Plushy Front
+
 ![front](https://thebookwasbetter.github.io/assets/img/front.png)
+
+### Plushy Back
 
 ![back](https://thebookwasbetter.github.io/assets/img/back.png)
 
