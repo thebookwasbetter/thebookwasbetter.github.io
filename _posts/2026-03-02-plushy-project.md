@@ -12,15 +12,13 @@ This plushy is an example of circuitry using conductive thread on a felt fabric.
 
 ### From Prototype to Photons
 
-  ![paperproto](https://thebookwasbetter.github.io/assets/img/paperproto.png)
+![paperproto](https://thebookwasbetter.github.io/assets/img/paperproto.png)
 
-  ![alligator](https://thebookwasbetter.github.io/assets/img/alligator.png)
+![alligator](https://thebookwasbetter.github.io/assets/img/alligator.png)
 
-  ![front](https://thebookwasbetter.github.io/assets/img/front.png)
+![front](https://thebookwasbetter.github.io/assets/img/front.png)
 
-  ![back](https://thebookwasbetter.github.io/assets/img/back.png)
-
-![sweater weather](https://thebookwasbetter.github.io/assets/img/sweaterweather.png)
+![back](https://thebookwasbetter.github.io/assets/img/back.png)
 
 ### Tip for Pastbrina
 
