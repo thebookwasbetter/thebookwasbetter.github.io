@@ -12,13 +12,13 @@ comments: true
 
 ### From Prototype to Photons
 
-![paperproto](https://thebookwasbetter.github.io/assets/img/paperproto.HEIC)
+![paperproto](https://thebookwasbetter.github.io/assets/img/paperproto.png)
 
-![back](https://thebookwasbetter.github.io/assets/img/alligator.HEIC)
+![alligator](https://thebookwasbetter.github.io/assets/img/alligator.png)
 
-![front](https://thebookwasbetter.github.io/assets/img/front.HEIC)
+![front](https://thebookwasbetter.github.io/assets/img/front.png)
 
-![back](https://thebookwasbetter.github.io/assets/img/back.HEIC)
+![back](https://thebookwasbetter.github.io/assets/img/back.png)
 
 ### Tip for Pastbrina
 
