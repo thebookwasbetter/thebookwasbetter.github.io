@@ -1,14 +1,14 @@
 ---
 layout: post
-title: odd menu
-subtitle: menu of oddities! 
+title: Plushy Redux
+subtitle: Light in Code 
 tags: [blog post]
 comments: true
 ---
 
 ### Plushy LED Project
 
-A way of thinking about the plushy led circuits by using conditionals and truth tables in code!
+A way of thinking about the plushy led circuits by using conditionals and truth tables in code, via led, button, and switch integers!
 
 ### Fiat Lux!
 
