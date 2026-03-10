@@ -18,11 +18,11 @@ Circuitry with two switches made from conductive thread, satin stitch, an led, c
 
 ### Alligator Land
 
-![hmm](https://thebookwasbetter.github.io/assets/img/IMG_2838.png)
+![hmm](https://thebookwasbetter.github.io/assets/img/IMG_2835.png)
 
 ### Final Product
 
-![alligator](https://thebookwasbetter.github.io/assets/img/IMG_2835.png)
+![alligator](https://thebookwasbetter.github.io/assets/img/IMG_2838.png)
 
 ![front](https://thebookwasbetter.github.io/assets/img/IMG_2840.png)
 
