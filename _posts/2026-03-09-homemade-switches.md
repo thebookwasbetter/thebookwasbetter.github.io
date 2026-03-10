@@ -8,7 +8,7 @@ comments: true
 
 ### Switch to Homemade Switches
 
-Circuitry with two switches made from conductive thread, satin stitch, an led, conductive fabric, a beret, and a paperclip.
+Circuitry with two switches made from conductive thread, satin stitch, an led, conductive fabric, a beret, and a paperclip. The creative aspect for me was using a beret that conducts the electricity as part of a switch!
 
 ### From Prototype to Photons
 
