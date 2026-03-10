@@ -12,24 +12,22 @@ Circuitry with two switches made from conductive thread, satin stitch, an led, c
 
 ### From Prototype to Photons
 
-![hmm](https://thebookwasbetter.github.io/assets/img/IMG_2838.png)
-
-### Alligator Land
-
-![alligator](https://thebookwasbetter.github.io/assets/img/IMG_2835.png)
-
-### Plushy Front
-
-![front](https://thebookwasbetter.github.io/assets/img/IMG_2840.png)
-
-### Plushy Back
-
-![back](https://thebookwasbetter.github.io/assets/img/IMG_2851.png)
-
 ![back](https://thebookwasbetter.github.io/assets/img/IMG_2852.png)
 
 ![back](https://thebookwasbetter.github.io/assets/img/IMG_2853.png)
 
+### Alligator Land
+
+![hmm](https://thebookwasbetter.github.io/assets/img/IMG_2838.png)
+
+### Final Product
+
+![alligator](https://thebookwasbetter.github.io/assets/img/IMG_2835.png)
+
+![front](https://thebookwasbetter.github.io/assets/img/IMG_2840.png)
+
+![back](https://thebookwasbetter.github.io/assets/img/IMG_2851.png)
+
 ### Tip for Pastbrina
 
-Start with a wider breadth between cross stitches. Also, be mindful of what parts have +/- charges!
+Cut the thread on the diagonal for ease of threading!
