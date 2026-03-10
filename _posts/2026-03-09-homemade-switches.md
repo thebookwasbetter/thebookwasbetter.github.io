@@ -28,7 +28,7 @@ Circuitry with two switches made from conductive thread, satin stitch, an led, c
 
 ![back](https://thebookwasbetter.github.io/assets/img/IMG_2852.png)
 
-![back](https://thebookwasbetter.github.io/assets/img/IMG_2835.png)
+![back](https://thebookwasbetter.github.io/assets/img/IMG_2853.png)
 
 ### Tip for Pastbrina
 
