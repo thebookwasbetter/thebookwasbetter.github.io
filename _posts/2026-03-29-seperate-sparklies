@@ -5,19 +5,20 @@ subtitle: Arduino Fireflies
 tags: [blog post]
 comments: true
 ---
-### RGB Loop
+### Firefly Seperate Sparklies
 
-Making the Arduino run through a RGB loop using nested if statements and loops. First time using delay!
+Using the arduino to simulate firefly flashes in three ways: flashing brightly every 4 seconds, having a gradual increase every 3 seconds, and flashing three times every 10 seconds.
 
 ### Flashbulb
 
-![flashbulb](https://thebookwasbetter.github.io/assets/img/redled.png)
+![flashbulb](https://thebookwasbetter.github.io/assets/img/flashbulb.png)
 
 ### Big Dipper
-![bigdip](https://thebookwasbetter.github.io/assets/img/greenled.png)
+![bigdip](https://thebookwasbetter.github.io/assets/img/bigdip.png)
+![bigdip](https://thebookwasbetter.github.io/assets/img/bigdiplow.png)
 
 ### Synchronous
-![synch](https://thebookwasbetter.github.io/assets/img/blueled.png)
+![synch](https://thebookwasbetter.github.io/assets/img/synch.png)
 
 ### Tip for Pastbrina
 
