@@ -1,0 +1,24 @@
+---
+layout: post
+title: Seperate Sparklies
+subtitle: Arduino Fireflies 
+tags: [blog post]
+comments: true
+---
+### RGB Loop
+
+Making the Arduino run through a RGB loop using nested if statements and loops. First time using delay!
+
+### Flashbulb
+
+![flashbulb](https://thebookwasbetter.github.io/assets/img/redled.png)
+
+### Big Dipper
+![bigdip](https://thebookwasbetter.github.io/assets/img/greenled.png)
+
+### Synchronous
+![synch](https://thebookwasbetter.github.io/assets/img/blueled.png)
+
+### Tip for Pastbrina
+
+Watching the lecture video is super helpful! Also, if your pseudocode is off don't be afraid to try something else.
