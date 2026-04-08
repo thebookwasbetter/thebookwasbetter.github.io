@@ -1,18 +1,18 @@
 ---
 layout: post
-title: Random Colors
-subtitle: traverse the color wheel 
+title: Sparklies
+subtitle: firefly party 
 tags: [blog post]
 comments: true
 ---
-### Random Colors
+### Sparklies All Together
 
-Sending colors to the Arduino, generated randomly, and having them appear by using a button. Also, making them be within the color wheel.
+Combining the state-based approach for making the different blinking fireflys.
 
-### Over the Rainbow
+### The Gang's All Here!
 
-![randColor](https://thebookwasbetter.github.io/assets/img/sparklies.png)
+![sparklies](https://thebookwasbetter.github.io/assets/img/sparklies.png)
 
 ### Tip for Pastbrina
 
-For the extra credit, think about using a "for" loop.
+Triple check your curly brackets, they're often the reason something is amiss!
