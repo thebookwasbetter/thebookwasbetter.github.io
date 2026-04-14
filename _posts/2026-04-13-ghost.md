@@ -1,0 +1,18 @@
+---
+layout: post
+title: Ghost Detector
+subtitle: BOO!
+tags: [blog post]
+comments: true
+---
+### But it's Dark, and It's Cold Here...
+
+Using our light and temperature sensors to make code that activates the red pins when it's dark and cold to tell us if there's ghosts about! Makes good use of the serial monitor.
+
+### Who You Gonna Call!
+
+![ghostdetect](https://thebookwasbetter.github.io/assets/img/randcolor.png)
+
+### Tip for Pastbrina
+
+Make sure you think about which temperature you want to correllate to your 'if' statement.
