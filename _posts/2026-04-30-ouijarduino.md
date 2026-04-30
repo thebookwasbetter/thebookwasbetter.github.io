@@ -7,5 +7,6 @@ comments: true
 ---
 ### My Circuitry
 
+![tired](https://thebookwasbetter.github.io/assets/img/arduinoouija.png)
 ![boom](https://thebookwasbetter.github.io/assets/img/ard-board.jpg)
 ![board](https://thebookwasbetter.github.io/assets/img/ouijarduino_pp.png)
