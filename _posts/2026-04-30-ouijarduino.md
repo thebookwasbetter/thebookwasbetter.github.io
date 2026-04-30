@@ -8,5 +8,4 @@ comments: true
 ### My Circuitry
 
 
-
-![ouijarduino](https://thebookwasbetter.github.io/assets/img/ouijarduino_pp.png)
+![board](https://thebookwasbetter.github.io/assets/img/ouijarduino_pp.png)
