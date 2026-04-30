@@ -9,4 +9,4 @@ comments: true
 
 
 
-![arduinouija](https://thebookwasbetter.github.io/assets/img/ouijarduino_pp.png)
+![ouijarduino](https://thebookwasbetter.github.io/assets/img/ouijarduino_pp.png)
